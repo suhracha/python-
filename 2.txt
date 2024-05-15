@@ -1,0 +1,3 @@
+Hello this is my first line.
+this is second line. 
+this file is to test and understand the functionality of readline method in python

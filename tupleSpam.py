@@ -1,0 +1,5 @@
+T = ('spam', 'Spam', 'SPAM!', 'SaPm') 
+print (T [2])
+print (T[-2]) 
+print (T[2:]) 
+print (list(T))

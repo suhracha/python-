@@ -1,0 +1,6 @@
+f= open('2.txt','r')
+#f.write('Hello this is my first line.\n this is second line. \n this file is to test and understand the functionality of readline method in python')
+print (f.readline())
+print(f.readline(10))
+print(f.readline(20))
+print(f.readline(20))
